@@ -1,0 +1,33 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Abby Carr
+
+2. Which VPS & domain providers did you choose?
+vultr and joker
+
+3. What domain name did you register?
+clipturtle.com
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/abbycarr/WebDev-hw01
+
+5. Which parts of this assignment did you have trouble with, if any?
+I got a 'connection timed out' error when doing ssh root@domain. I spent hours trying
+any/all options I could find online and ended up completely reinstalling the operating
+system and getting a new ssh key only to still have to start a completely new VPS
+before getting ssh root@domain to work. Don't know why this was so awful? No one 
+seemed to understand why, it just sucked is all.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
